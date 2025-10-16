@@ -377,11 +377,11 @@
         "print(f\"{kg} kilograms is equal to {pounds:.2f} pounds.\")"
       ],
       "metadata": {
+        "id": "KVBzx8GsLMti",
+        "outputId": "fcb798be-707c-4cdd-9f3e-fed2aaa1225a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "96_BEhFQ3isi",
-        "outputId": "466d6e9e-99b1-47ed-ab15-0849258ab209"
+        }
       },
       "execution_count": 1,
       "outputs": [
@@ -389,8 +389,8 @@
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Enter weight in kilograms: 50\n",
-            "50.0 kilograms is equal to 160.00 pounds.\n"
+            "Enter weight in kilograms: 40\n",
+            "40.0 kilograms is equal to 128.00 pounds.\n"
           ]
         }
       ]
@@ -402,11 +402,11 @@
         "    print(n,end=\",\")"
       ],
       "metadata": {
+        "id": "F2stD6RSLbFD",
+        "outputId": "1898750a-909e-4176-bba3-f57196e53b3c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        },
-        "id": "Y0YaqtWI3ptv",
-        "outputId": "e1c6e998-6bc2-493c-c765-dbe8cace2390"
+        }
       },
       "execution_count": 2,
       "outputs": [
@@ -427,13 +427,13 @@
         "print(char_list)"
       ],
       "metadata": {
-        "id": "8U4k11FV3uzy",
-        "outputId": "92719975-0337-4547-dc23-338da3ae17d5",
+        "id": "TtphfWEuLfBo",
+        "outputId": "2e7fe017-0dff-423c-bcaa-ed5be54443e1",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 4,
+      "execution_count": 3,
       "outputs": [
         {
           "output_type": "stream",
@@ -452,13 +452,13 @@
         "print(\"The largest number is:\", largest)"
       ],
       "metadata": {
-        "id": "ftbxRoPO30LU",
-        "outputId": "df7839b0-af19-4131-b825-186438d3a2a3",
+        "id": "WAi_ZBplLie7",
+        "outputId": "e83acd31-93fb-46e7-e7e6-7ec43d4c08ce",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 5,
+      "execution_count": 4,
       "outputs": [
         {
           "output_type": "stream",
@@ -489,37 +489,29 @@
         "print(f\"The {n}th Fibonacci number is:\", result)"
       ],
       "metadata": {
-        "id": "tAlOcNc94AwM",
-        "outputId": "5fe7d569-0fcd-4693-d97e-63dc305a0b15",
+        "id": "ftPJc9fRLmeQ",
+        "outputId": "8f5a94a7-77d7-4a1c-e1ae-4de5cbca9051",
         "colab": {
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 6,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Enter the position (n) of the Fibonacci number: 5\n",
-            "The 5th Fibonacci number is: 3\n"
+            "Enter the position (n) of the Fibonacci number: 60\n",
+            "The 60th Fibonacci number is: 956722026041\n"
           ]
         }
       ]
-    },
-    {
-      "cell_type": "code",
-      "source": [],
-      "metadata": {
-        "id": "MVE0NMjo3-L5"
-      },
-      "execution_count": null,
-      "outputs": []
     }
   ],
   "metadata": {
     "colab": {
       "name": "Welcome To Colab",
+      "toc_visible": true,
       "provenance": [],
       "include_colab_link": true
     },
