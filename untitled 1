@@ -377,11 +377,11 @@
         "print(f\"{kg} kilograms is equal to {pounds:.2f} pounds.\")"
       ],
       "metadata": {
-        "id": "KVBzx8GsLMti",
-        "outputId": "fcb798be-707c-4cdd-9f3e-fed2aaa1225a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "KVBzx8GsLMti",
+        "outputId": "fcb798be-707c-4cdd-9f3e-fed2aaa1225a"
       },
       "execution_count": 1,
       "outputs": [
@@ -402,11 +402,11 @@
         "    print(n,end=\",\")"
       ],
       "metadata": {
-        "id": "F2stD6RSLbFD",
-        "outputId": "1898750a-909e-4176-bba3-f57196e53b3c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "F2stD6RSLbFD",
+        "outputId": "1898750a-909e-4176-bba3-f57196e53b3c"
       },
       "execution_count": 2,
       "outputs": [
@@ -427,11 +427,11 @@
         "print(char_list)"
       ],
       "metadata": {
-        "id": "TtphfWEuLfBo",
-        "outputId": "2e7fe017-0dff-423c-bcaa-ed5be54443e1",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "TtphfWEuLfBo",
+        "outputId": "2e7fe017-0dff-423c-bcaa-ed5be54443e1"
       },
       "execution_count": 3,
       "outputs": [
@@ -452,11 +452,11 @@
         "print(\"The largest number is:\", largest)"
       ],
       "metadata": {
-        "id": "WAi_ZBplLie7",
-        "outputId": "e83acd31-93fb-46e7-e7e6-7ec43d4c08ce",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "WAi_ZBplLie7",
+        "outputId": "e83acd31-93fb-46e7-e7e6-7ec43d4c08ce"
       },
       "execution_count": 4,
       "outputs": [
@@ -489,11 +489,11 @@
         "print(f\"The {n}th Fibonacci number is:\", result)"
       ],
       "metadata": {
-        "id": "ftPJc9fRLmeQ",
-        "outputId": "8f5a94a7-77d7-4a1c-e1ae-4de5cbca9051",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "ftPJc9fRLmeQ",
+        "outputId": "8f5a94a7-77d7-4a1c-e1ae-4de5cbca9051"
       },
       "execution_count": 5,
       "outputs": [
